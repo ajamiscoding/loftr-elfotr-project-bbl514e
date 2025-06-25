@@ -21,3 +21,12 @@ Visual SLAM (Simultaneous Localization and Mapping) requires robust feature matc
 
 We benchmark their performance on the **MegaDepth1500** and **ScanNet1500** datasets and to assess suitability for SLAM pipelines.
 
+---
+
+## 🛠️ Reproduction Instructions
+
+⚠️ **Note**: This project builds on the official implementations of [LoFTR](https://github.com/zju3dv/LoFTR) and [ELFOTR](https://github.com/SLDGroup/ELFOTR).  
+To ensure accurate results and full functionality, please follow their setup instructions for model weights and basic test procedures.
+
+---
+
