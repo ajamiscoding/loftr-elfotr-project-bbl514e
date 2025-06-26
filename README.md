@@ -8,7 +8,12 @@ Prepared By:
 
 This repository contains the code and results for the BBL 514E Spring 2025 project at Istanbul Technical University. The project benchmarks state-of-the-art detector-free feature matching models — **LoFTR** and **ELFOTR** — on visual SLAM-relevant datasets, focusing on their performance in terms of homography estimation and matching reliability.
 
+---
+## Presentation 
 
+A Presentation Explaining the work in Brief..
+
+https://github.com/user-attachments/assets/f20bee3b-14ad-4409-899f-d8cc1ada7e1a
 
 ---
 
@@ -28,5 +33,5 @@ We benchmark their performance on the **MegaDepth1500** and **ScanNet1500** data
 ⚠️ **Note**: This project builds on the official implementations of [LoFTR](https://github.com/zju3dv/LoFTR) and [ELFOTR](https://github.com/SLDGroup/ELFOTR).  
 To ensure accurate results and full functionality, please follow their setup instructions for model weights and basic test procedures.
 
----
+
 
